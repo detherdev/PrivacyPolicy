@@ -35,5 +35,5 @@ Octomood offers two modes of operation:
 Octomood does not knowingly collect personally identifiable information from children under 13.
 
 ## 5. Contact Us
-If you have questions about this privacy policy, please contact us at [your-email@example.com].
+If you have questions about this privacy policy, please contact us at daveyfigueroa@icloud.com.
 
